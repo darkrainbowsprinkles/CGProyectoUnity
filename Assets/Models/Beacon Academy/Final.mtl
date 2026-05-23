@@ -1,0 +1,522 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 21.12.2019 23:49:17
+
+newmtl wire_113135006
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.4431 0.5294 0.0235
+	Kd 0.4431 0.5294 0.0235
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Material__55
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_entrance.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_entrance.png
+
+newmtl Material__10
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_tower_background_side.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_tower_background_side.png
+
+newmtl Material__56
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_tower_background_mid.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_tower_background_mid.png
+
+newmtl Material__9
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_tower_background_sidemost.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_tower_background_sidemost.png
+
+newmtl Material__11
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_tower_background_curve.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_tower_background_curve.png
+
+newmtl Material__12
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_tower_background_ramp.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_tower_background_ramp.png
+
+newmtl wire_228184153
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8941 0.7216 0.6000
+	Kd 0.8941 0.7216 0.6000
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Ground
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6627 0.7294 0.7373
+	Kd 0.6627 0.7294 0.7373
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl wire_027177027
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.1059 0.6941 0.1059
+	Kd 0.1059 0.6941 0.1059
+	Ks 0.3500 0.3500 0.3500
+
+newmtl wire_087225198
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.3412 0.8824 0.7765
+	Kd 0.3412 0.8824 0.7765
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Material__51
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0941 0.6392 0.0941
+	Kd 0.0941 0.6392 0.0941
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl wire_228214153
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8941 0.8392 0.6000
+	Kd 0.8941 0.8392 0.6000
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Path_3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1569 0.1373 0.1373
+	Kd 0.1569 0.1373 0.1373
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_path3.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_path3.png
+
+newmtl 14___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_path2.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_path2.png
+
+newmtl Walkway
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_path1.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_path1.png
+
+newmtl Water
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4353 0.7686 1.0000
+	Kd 0.4353 0.7686 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_bump -bm 0.3000 Map__7_Noise.tga
+	map_refl Water_Raytrace.tga
+
+newmtl wire_028089177
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.1098 0.3490 0.6941
+	Kd 0.1098 0.3490 0.6941
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Path_Outer
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.4627 0.4627 0.4627
+	Kd 0.4627 0.4627 0.4627
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl wire_177148027
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.6941 0.5804 0.1059
+	Kd 0.6941 0.5804 0.1059
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Material__25
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+
+newmtl Material__24
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+
+newmtl Material__23
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+
+newmtl Material__22
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+
+newmtl Material__26
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+
+newmtl Material__27
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+
+newmtl wire_102138215
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.4000 0.5412 0.8431
+	Kd 0.4000 0.5412 0.8431
+	Ks 0.3500 0.3500 0.3500
+
+newmtl Material__17
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+
+newmtl Material__21
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+
+newmtl Material__18
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+
+newmtl Material__19
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+
+newmtl Material__20
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+
+newmtl Material__16
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+	map_Kd D:\Libraries\OneDrive - Bina Nusantara University\Projects\3D Modelling\Beacon Academy\Courtyard\UV\uv_one_color.png
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 01___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 0.9961 0.5804
+	Kd 1.0000 0.9961 0.5804
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 0.9176 0.2078
+
+newmtl wire_225198087
+	Ns 32.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.8824 0.7765 0.3412
+	Kd 0.8824 0.7765 0.3412
+	Ks 0.3500 0.3500 0.3500
+	Ke 0.0000 0.0000 0.0000
+
+newmtl wire_031010000
+	Ns 32.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.1216 0.0392 0.0000
+	Kd 0.1216 0.0392 0.0000
+	Ks 0.3500 0.3500 0.3500
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 03___Default
+	Ns 31.0000
+	Ni 1.5000
+	d 0.2500
+	Tr 0.7500
+	Tf 0.2500 0.2500 0.2500 
+	illum 2
+	Ka 0.0000 1.0000 0.5176
+	Kd 0.0000 1.0000 0.5176
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 1.0000 0.4706
+
+newmtl MaterialWood
+	Ns 46.4386
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2641 0.0602 0.0143
+	Ks 0.0660 0.0151 0.0036
+	Ke 0.0000 0.0000 0.0000
+
+newmtl Material_001
+	Ns 20.9119
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8000 0.0055 0.0129
+	Ks 0.0954 0.0007 0.0015
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 22___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0745 0.0157 0.0000
+	Kd 0.0745 0.0157 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
